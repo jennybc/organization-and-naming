@@ -5,5 +5,5 @@ The plan is to move this content over to the main repository! Why here now? I'm 
 Mini-lectures:
 
   * [Organizing files into directories](organization/)
-  * Naming files
-  * Picking file formats
+  * [Naming files](naming-things/)
+  * Picking file formats (did not happen)
